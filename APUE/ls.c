@@ -10,5 +10,4 @@ int main(int argc, char *argv[])
     if (argc != 2)
         err_quit("Usage: LS DIRECTORY_NAME");
     
-    
 }
